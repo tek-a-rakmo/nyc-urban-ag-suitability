@@ -1,0 +1,14 @@
+# Ignore data folders (too large)
+data/
+*.shp
+*.gdb
+*.tif
+
+# Ignore Jupyter checkpoints and Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db

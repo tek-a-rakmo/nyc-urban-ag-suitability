@@ -1,0 +1,11 @@
+geopandas
+pandas
+numpy
+matplotlib
+contextily
+fiona
+pyogrio
+shapely
+dask
+folium
+jupyter
